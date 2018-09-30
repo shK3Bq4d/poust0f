@@ -1,0 +1,9 @@
+UsePAM no
+#UsePrivilegeSeparation no
+PasswordAuthentication yes
+HostKey id_rsa
+HostKey id_dsa
+StrictModes no
+
+Port 2222
+LogLevel DEBUG3
